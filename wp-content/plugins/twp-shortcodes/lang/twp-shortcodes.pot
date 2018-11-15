@@ -1,0 +1,884 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TWP Shortcodes\n"
+"POT-Creation-Date: 2016-10-29 21:31+0200\n"
+"PO-Revision-Date: 2015-12-14 19:00+0100\n"
+"Last-Translator: Themes4WP <info@themes4wp.com>\n"
+"Language-Team: Themes4WP <info@themes4wp.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: shortcodes-template.php:11
+msgid "Standard"
+msgstr ""
+
+#: shortcodes-template.php:12
+msgid "Standard shortcodes."
+msgstr ""
+
+#: shortcodes-template.php:16 shortcodes-template.php:23
+#: shortcodes-template.php:646 shortcodes-template.php:738
+#: shortcodes-template.php:888 shortcodes-template.php:981
+#: shortcodes-template.php:1116 shortcodes-template.php:1354
+#: shortcodes-template.php:1453 shortcodes-template.php:1567
+#: shortcodes-template.php:1662 shortcodes-template.php:1757
+#: shortcodes-template.php:1852 shortcodes-template.php:1903
+#: shortcodes-template.php:1998
+msgid "Columns"
+msgstr ""
+
+#: shortcodes-template.php:17
+msgid "Print a column"
+msgstr ""
+
+#: shortcodes-template.php:54
+msgid "Row"
+msgstr ""
+
+#: shortcodes-template.php:55
+msgid "Add row for columns"
+msgstr ""
+
+#: shortcodes-template.php:61
+msgid "Tooltips"
+msgstr ""
+
+#: shortcodes-template.php:62
+msgid "Print a tooltip"
+msgstr ""
+
+#: shortcodes-template.php:68
+msgid "Placement"
+msgstr ""
+
+#: shortcodes-template.php:75
+msgid "Top"
+msgstr ""
+
+#: shortcodes-template.php:79 shortcodes-template.php:489
+msgid "Left"
+msgstr ""
+
+#: shortcodes-template.php:83 shortcodes-template.php:493
+msgid "Right"
+msgstr ""
+
+#: shortcodes-template.php:87
+msgid "Bottom"
+msgstr ""
+
+#: shortcodes-template.php:92 shortcodes-template.php:182
+#: shortcodes-template.php:502 shortcodes-template.php:548
+#: shortcodes-template.php:862 shortcodes-template.php:964
+#: shortcodes-template.php:1313 shortcodes-template.php:1521
+#: shortcodes-template.php:1616 shortcodes-template.php:1711
+#: shortcodes-template.php:1806 shortcodes-template.php:1952
+msgid "Title"
+msgstr ""
+
+#: shortcodes-template.php:101
+msgid "Icons"
+msgstr ""
+
+#: shortcodes-template.php:102
+msgid "Print a icon"
+msgstr ""
+
+#: shortcodes-template.php:107 shortcodes-template.php:119
+#: shortcodes-template.php:462 ts-shortcode-generator/sample-template.php:145
+msgid "Icon"
+msgstr ""
+
+#: shortcodes-template.php:108 shortcodes-template.php:463
+msgid "Select icon"
+msgstr ""
+
+#: shortcodes-template.php:112 shortcodes-template.php:436
+msgid "Size"
+msgstr ""
+
+#: shortcodes-template.php:123
+msgid "2x"
+msgstr ""
+
+#: shortcodes-template.php:127
+msgid "3x"
+msgstr ""
+
+#: shortcodes-template.php:131
+msgid "4x"
+msgstr ""
+
+#: shortcodes-template.php:135
+msgid "5x"
+msgstr ""
+
+#: shortcodes-template.php:143
+msgid "Divider"
+msgstr ""
+
+#: shortcodes-template.php:144
+msgid "Print a divider"
+msgstr ""
+
+#: shortcodes-template.php:149
+msgid "Divider type"
+msgstr ""
+
+#: shortcodes-template.php:156
+msgid "Line #1"
+msgstr ""
+
+#: shortcodes-template.php:160
+msgid "Line #2"
+msgstr ""
+
+#: shortcodes-template.php:164 shortcodes-template.php:235
+msgid "Dashed"
+msgstr ""
+
+#: shortcodes-template.php:168 shortcodes-template.php:239
+msgid "Double"
+msgstr ""
+
+#: shortcodes-template.php:176
+msgid "Title with line"
+msgstr ""
+
+#: shortcodes-template.php:177
+msgid "Show a title centered with line"
+msgstr ""
+
+#: shortcodes-template.php:188 shortcodes-template.php:560
+msgid "Title size"
+msgstr ""
+
+#: shortcodes-template.php:220
+msgid "Line style"
+msgstr ""
+
+#: shortcodes-template.php:227
+msgid "Solid"
+msgstr ""
+
+#: shortcodes-template.php:231
+msgid "Dotted"
+msgstr ""
+
+#: shortcodes-template.php:247
+msgid "Progress Bar"
+msgstr ""
+
+#: shortcodes-template.php:248
+msgid "Print a progress bar"
+msgstr ""
+
+#: shortcodes-template.php:253 shortcodes-template.php:320
+#: shortcodes-template.php:362 shortcodes-template.php:400
+msgid "Type"
+msgstr ""
+
+#: shortcodes-template.php:260 shortcodes-template.php:327
+#: shortcodes-template.php:407
+msgid "Default"
+msgstr ""
+
+#: shortcodes-template.php:264 shortcodes-template.php:331
+#: shortcodes-template.php:369 shortcodes-template.php:411
+msgid "Primary"
+msgstr ""
+
+#: shortcodes-template.php:268 shortcodes-template.php:335
+#: shortcodes-template.php:373 shortcodes-template.php:415
+msgid "Success"
+msgstr ""
+
+#: shortcodes-template.php:272 shortcodes-template.php:339
+#: shortcodes-template.php:377 shortcodes-template.php:419
+msgid "Info"
+msgstr ""
+
+#: shortcodes-template.php:276 shortcodes-template.php:343
+#: shortcodes-template.php:381 shortcodes-template.php:423
+msgid "Warning"
+msgstr ""
+
+#: shortcodes-template.php:280 shortcodes-template.php:347
+#: shortcodes-template.php:385 shortcodes-template.php:427
+msgid "Danger"
+msgstr ""
+
+#: shortcodes-template.php:285 ts-shortcode-generator/sample-template.php:64
+msgid "slider field"
+msgstr ""
+
+#: shortcodes-template.php:294
+msgid "Label"
+msgstr ""
+
+#: shortcodes-template.php:301 shortcodes-template.php:1263
+msgid "No"
+msgstr ""
+
+#: shortcodes-template.php:305 shortcodes-template.php:1259
+msgid "Yes"
+msgstr ""
+
+#: shortcodes-template.php:313
+msgid "Labels"
+msgstr ""
+
+#: shortcodes-template.php:314
+msgid "Print a label"
+msgstr ""
+
+#: shortcodes-template.php:355
+msgid "Alerts"
+msgstr ""
+
+#: shortcodes-template.php:356
+msgid "Print an alert box"
+msgstr ""
+
+#: shortcodes-template.php:393
+msgid "Buttons"
+msgstr ""
+
+#: shortcodes-template.php:394
+msgid "Show a simple custom button, with icon"
+msgstr ""
+
+#: shortcodes-template.php:431
+msgid "Link"
+msgstr ""
+
+#: shortcodes-template.php:443
+msgid "Large"
+msgstr ""
+
+#: shortcodes-template.php:447
+msgid "Medium"
+msgstr ""
+
+#: shortcodes-template.php:451
+msgid "Small"
+msgstr ""
+
+#: shortcodes-template.php:456
+msgid "Button URL"
+msgstr ""
+
+#: shortcodes-template.php:470
+msgid "Media"
+msgstr ""
+
+#: shortcodes-template.php:471
+msgid "Print a media with title and description"
+msgstr ""
+
+#: shortcodes-template.php:477 shortcodes-template.php:523
+msgid "Image"
+msgstr ""
+
+#: shortcodes-template.php:478 shortcodes-template.php:524
+msgid "Upload image"
+msgstr ""
+
+#: shortcodes-template.php:482
+msgid "Image aling"
+msgstr ""
+
+#: shortcodes-template.php:497
+msgid "Center all"
+msgstr ""
+
+#: shortcodes-template.php:508
+msgid "URL"
+msgstr ""
+
+#: shortcodes-template.php:517
+msgid "Image with effects"
+msgstr ""
+
+#: shortcodes-template.php:518
+msgid "Print an image with title and hower effect"
+msgstr ""
+
+#: shortcodes-template.php:528
+msgid "Image hover effect"
+msgstr ""
+
+#: shortcodes-template.php:535
+msgid "Zoom in"
+msgstr ""
+
+#: shortcodes-template.php:539
+msgid "Zoom out"
+msgstr ""
+
+#: shortcodes-template.php:543
+msgid "Flash"
+msgstr ""
+
+#: shortcodes-template.php:554
+msgid "Image URL"
+msgstr ""
+
+#: shortcodes-template.php:592
+msgid "Title color"
+msgstr ""
+
+#: shortcodes-template.php:601
+msgid "Clear"
+msgstr ""
+
+#: shortcodes-template.php:602
+msgid "Clear the float"
+msgstr ""
+
+#: shortcodes-template.php:610
+msgid "Sections"
+msgstr ""
+
+#: shortcodes-template.php:611
+msgid "Sections shortcodes."
+msgstr ""
+
+#: shortcodes-template.php:615
+msgid "Recent posts"
+msgstr ""
+
+#: shortcodes-template.php:616 shortcodes-template.php:682
+msgid "Print a blog posts"
+msgstr ""
+
+#: shortcodes-template.php:621 shortcodes-template.php:687
+msgid "Category ID"
+msgstr ""
+
+#: shortcodes-template.php:623 shortcodes-template.php:689
+#: shortcodes-template.php:830 shortcodes-template.php:1051
+#: shortcodes-template.php:1398
+msgid "Select one or more categories. Leave blank for all."
+msgstr ""
+
+#: shortcodes-template.php:628 shortcodes-template.php:694
+#: shortcodes-template.php:729
+msgid "Number of posts"
+msgstr ""
+
+#: shortcodes-template.php:637 shortcodes-template.php:703
+#: shortcodes-template.php:770
+msgid "Excerpt length"
+msgstr ""
+
+#: shortcodes-template.php:681
+msgid "Recent posts inline"
+msgstr ""
+
+#: shortcodes-template.php:715
+msgid "Posts carousel"
+msgstr ""
+
+#: shortcodes-template.php:716
+msgid "Print a carousel with posts."
+msgstr ""
+
+#: shortcodes-template.php:722 shortcodes-template.php:828
+#: shortcodes-template.php:1023 shortcodes-template.php:1181
+#: shortcodes-template.php:1213
+msgid "Category"
+msgstr ""
+
+#: shortcodes-template.php:724
+msgid "Select category to show."
+msgstr ""
+
+#: shortcodes-template.php:782
+msgid "Contact Form 7"
+msgstr ""
+
+#: shortcodes-template.php:783
+msgid "Print a contact form."
+msgstr ""
+
+#: shortcodes-template.php:788 shortcodes-template.php:804
+msgid "Form"
+msgstr ""
+
+#: shortcodes-template.php:790 shortcodes-template.php:806
+msgid "Select your form."
+msgstr ""
+
+#: shortcodes-template.php:798
+msgid "MailPoet Newsletters"
+msgstr ""
+
+#: shortcodes-template.php:799
+msgid "Print a MailPoet Newsletter subscribe form."
+msgstr ""
+
+#: shortcodes-template.php:816
+msgid "Shop"
+msgstr ""
+
+#: shortcodes-template.php:817
+msgid "WooCommerce shortcodes."
+msgstr ""
+
+#: shortcodes-template.php:821
+msgid "Products carousel"
+msgstr ""
+
+#: shortcodes-template.php:822 shortcodes-template.php:924
+msgid "Print carousel with products."
+msgstr ""
+
+#: shortcodes-template.php:835 shortcodes-template.php:937
+#: shortcodes-template.php:1091 shortcodes-template.php:1338
+#: shortcodes-template.php:1431 shortcodes-template.php:1542
+#: shortcodes-template.php:1637 shortcodes-template.php:1732
+#: shortcodes-template.php:1827 shortcodes-template.php:1973
+msgid "Order"
+msgstr ""
+
+#: shortcodes-template.php:842 shortcodes-template.php:944
+#: shortcodes-template.php:1098 shortcodes-template.php:1345
+#: shortcodes-template.php:1438 shortcodes-template.php:1549
+#: shortcodes-template.php:1644 shortcodes-template.php:1739
+#: shortcodes-template.php:1834 shortcodes-template.php:1980
+msgid "ASC"
+msgstr ""
+
+#: shortcodes-template.php:846 shortcodes-template.php:948
+#: shortcodes-template.php:1102 shortcodes-template.php:1349
+#: shortcodes-template.php:1442 shortcodes-template.php:1553
+#: shortcodes-template.php:1648 shortcodes-template.php:1743
+#: shortcodes-template.php:1838 shortcodes-template.php:1984
+msgid "DESC"
+msgstr ""
+
+#: shortcodes-template.php:851 shortcodes-template.php:953
+#: shortcodes-template.php:1063 shortcodes-template.php:1306
+#: shortcodes-template.php:1403 shortcodes-template.php:1514
+#: shortcodes-template.php:1609 shortcodes-template.php:1704
+#: shortcodes-template.php:1799 shortcodes-template.php:1945
+msgid "Order by"
+msgstr ""
+
+#: shortcodes-template.php:858 shortcodes-template.php:960
+#: shortcodes-template.php:1317 shortcodes-template.php:1525
+#: shortcodes-template.php:1620 shortcodes-template.php:1715
+#: shortcodes-template.php:1810 shortcodes-template.php:1956
+msgid "Date"
+msgstr ""
+
+#: shortcodes-template.php:866 shortcodes-template.php:968
+#: shortcodes-template.php:1325 shortcodes-template.php:1533
+#: shortcodes-template.php:1628 shortcodes-template.php:1723
+#: shortcodes-template.php:1818 shortcodes-template.php:1964
+msgid "ID"
+msgstr ""
+
+#: shortcodes-template.php:870 shortcodes-template.php:972
+#: shortcodes-template.php:1321 shortcodes-template.php:1529
+#: shortcodes-template.php:1624 shortcodes-template.php:1719
+#: shortcodes-template.php:1814 shortcodes-template.php:1960
+msgid "Random"
+msgstr ""
+
+#: shortcodes-template.php:874 shortcodes-template.php:976
+#: shortcodes-template.php:1086 shortcodes-template.php:1333
+#: shortcodes-template.php:1426
+msgid "None"
+msgstr ""
+
+#: shortcodes-template.php:879 shortcodes-template.php:1030
+#: shortcodes-template.php:1107 shortcodes-template.php:1226
+#: shortcodes-template.php:1447 shortcodes-template.php:1558
+#: shortcodes-template.php:1653 shortcodes-template.php:1748
+#: shortcodes-template.php:1843 shortcodes-template.php:1894
+#: shortcodes-template.php:1989
+msgid "Number of Items"
+msgstr ""
+
+#: shortcodes-template.php:923
+msgid "Custom products carousel"
+msgstr ""
+
+#: shortcodes-template.php:930 shortcodes-template.php:1299
+msgid "Products"
+msgstr ""
+
+#: shortcodes-template.php:932
+msgid "Select one or more products."
+msgstr ""
+
+#: shortcodes-template.php:1016
+msgid "Products slider"
+msgstr ""
+
+#: shortcodes-template.php:1017
+msgid "Print slider with products."
+msgstr ""
+
+#: shortcodes-template.php:1025
+msgid "Select slider category."
+msgstr ""
+
+#: shortcodes-template.php:1042
+msgid "Category carousel"
+msgstr ""
+
+#: shortcodes-template.php:1043
+msgid "Print carousel with product categories"
+msgstr ""
+
+#: shortcodes-template.php:1049 shortcodes-template.php:1396
+msgid "Include category"
+msgstr ""
+
+#: shortcodes-template.php:1056
+msgid "Exclude category"
+msgstr ""
+
+#: shortcodes-template.php:1058 shortcodes-template.php:1150
+#: shortcodes-template.php:1487
+msgid "Select one or more categories. Leave blank for none."
+msgstr ""
+
+#: shortcodes-template.php:1070 shortcodes-template.php:1410
+msgid "Name"
+msgstr ""
+
+#: shortcodes-template.php:1074 shortcodes-template.php:1414
+msgid "Id"
+msgstr ""
+
+#: shortcodes-template.php:1078 shortcodes-template.php:1418
+msgid "Slug"
+msgstr ""
+
+#: shortcodes-template.php:1082 shortcodes-template.php:1422
+msgid "Count"
+msgstr ""
+
+#: shortcodes-template.php:1148 shortcodes-template.php:1485
+msgid "Parent ID"
+msgstr ""
+
+#: shortcodes-template.php:1155
+msgid "Hide empty"
+msgstr ""
+
+#: shortcodes-template.php:1174
+msgid "Custom category"
+msgstr ""
+
+#: shortcodes-template.php:1175
+msgid "Show category with 2 products"
+msgstr ""
+
+#: shortcodes-template.php:1183 shortcodes-template.php:1215
+msgid "Select a category."
+msgstr ""
+
+#: shortcodes-template.php:1188 shortcodes-template.php:1220
+msgid "Button text"
+msgstr ""
+
+#: shortcodes-template.php:1194
+msgid "Category excerpt length"
+msgstr ""
+
+#: shortcodes-template.php:1206
+msgid "Custom category carousel"
+msgstr ""
+
+#: shortcodes-template.php:1207
+msgid "Show category image with products carousel"
+msgstr ""
+
+#: shortcodes-template.php:1239
+msgid "Product Price/cart button"
+msgstr ""
+
+#: shortcodes-template.php:1240
+msgid "Print a price and cart button."
+msgstr ""
+
+#: shortcodes-template.php:1245 shortcodes-template.php:1283
+msgid "Product"
+msgstr ""
+
+#: shortcodes-template.php:1252
+msgid "Show Price"
+msgstr ""
+
+#: shortcodes-template.php:1255
+msgid "You can style the button/price."
+msgstr ""
+
+#: shortcodes-template.php:1268
+msgid "Inline Style"
+msgstr ""
+
+#: shortcodes-template.php:1277
+msgid "Single product"
+msgstr ""
+
+#: shortcodes-template.php:1278
+msgid "Print a single product"
+msgstr ""
+
+#: shortcodes-template.php:1293
+msgid "Multiple products"
+msgstr ""
+
+#: shortcodes-template.php:1294
+msgid "Print a multiple products"
+msgstr ""
+
+#: shortcodes-template.php:1329 shortcodes-template.php:1537
+#: shortcodes-template.php:1632 shortcodes-template.php:1727
+#: shortcodes-template.php:1822 shortcodes-template.php:1968
+msgid "Menu Order"
+msgstr ""
+
+#: shortcodes-template.php:1389
+msgid "Product categories"
+msgstr ""
+
+#: shortcodes-template.php:1390
+msgid "Print a categories of products."
+msgstr ""
+
+#: shortcodes-template.php:1495
+msgid "Products by attributes"
+msgstr ""
+
+#: shortcodes-template.php:1496
+msgid "Print a products selected by attributes."
+msgstr ""
+
+#: shortcodes-template.php:1502
+msgid "Attribute slug"
+msgstr ""
+
+#: shortcodes-template.php:1508
+msgid "Terms slug"
+msgstr ""
+
+#: shortcodes-template.php:1510
+msgid "Separate values with comma"
+msgstr ""
+
+#: shortcodes-template.php:1602
+msgid "Recent Products"
+msgstr ""
+
+#: shortcodes-template.php:1603
+msgid "Print a recent products."
+msgstr ""
+
+#: shortcodes-template.php:1697
+msgid "Featured Products"
+msgstr ""
+
+#: shortcodes-template.php:1698
+msgid "Print a featured products."
+msgstr ""
+
+#: shortcodes-template.php:1792
+msgid "Sale Products"
+msgstr ""
+
+#: shortcodes-template.php:1793
+msgid "Print a products in sale."
+msgstr ""
+
+#: shortcodes-template.php:1887
+msgid "Best selling products"
+msgstr ""
+
+#: shortcodes-template.php:1888 shortcodes-template.php:1939
+msgid "Print a best selling products"
+msgstr ""
+
+#: shortcodes-template.php:1938
+msgid "Top rated products"
+msgstr ""
+
+#: ts-shortcode-generator/bootstrap.php:47
+msgid "TS Shortcode Generator"
+msgstr ""
+
+#: ts-shortcode-generator/bootstrap.php:140
+#: ts-shortcode-generator/bootstrap.php:161
+msgid "You do not have rights to do this!"
+msgstr ""
+
+#: ts-shortcode-generator/bootstrap.php:194
+#, php-format
+msgid "Add more %s"
+msgstr ""
+
+#: ts-shortcode-generator/bootstrap.php:196
+#, php-format
+msgid "Remove this %s"
+msgstr ""
+
+#: ts-shortcode-generator/bootstrap.php:279
+msgid "Contents"
+msgstr ""
+
+#: ts-shortcode-generator/bootstrap.php:280
+msgid "Insert your contents from here"
+msgstr ""
+
+#: ts-shortcode-generator/sample-init.php:12
+msgid "Sample shortcode generator"
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:11
+msgid "Tab 1"
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:12
+#: ts-shortcode-generator/sample-template.php:99
+msgid "This is a sample tab of shortcodes."
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:16
+msgid "Sample shortcode 1"
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:17
+#: ts-shortcode-generator/sample-template.php:59
+#: ts-shortcode-generator/sample-template.php:139
+msgid "This is a shortcode sample."
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:23
+#: ts-shortcode-generator/sample-template.php:108
+msgid "Toggle field"
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:24
+#: ts-shortcode-generator/sample-template.php:30
+#: ts-shortcode-generator/sample-template.php:36
+#: ts-shortcode-generator/sample-template.php:65
+#: ts-shortcode-generator/sample-template.php:74
+#: ts-shortcode-generator/sample-template.php:109
+#: ts-shortcode-generator/sample-template.php:115
+#: ts-shortcode-generator/sample-template.php:146
+msgid "Description"
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:29
+msgid "Color field"
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:35
+#: ts-shortcode-generator/sample-template.php:114
+msgid "Select field"
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:42
+#: ts-shortcode-generator/sample-template.php:80
+#: ts-shortcode-generator/sample-template.php:121
+msgid "Value 1"
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:46
+#: ts-shortcode-generator/sample-template.php:84
+#: ts-shortcode-generator/sample-template.php:125
+msgid "Value 2"
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:50
+#: ts-shortcode-generator/sample-template.php:88
+#: ts-shortcode-generator/sample-template.php:129
+msgid "Value 3"
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:58
+msgid "Sample shortcode 2"
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:73
+msgid "Multiselect field"
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:98
+msgid "Repeatable shortcode sample"
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:103
+msgid "Repeatable short"
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:104
+msgid "Here we will use the content as another shortcode."
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:134
+msgid "Add/Remove childs"
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:135
+msgid "You can add/remove or rearrange shortcodes from here"
+msgstr ""
+
+#: ts-shortcode-generator/sample-template.php:138
+msgid "Child"
+msgstr ""
+
+#: ts-shortcode-generator/views/fields/icon.php:17
+msgid "Please select an icon"
+msgstr ""
+
+#: ts-shortcode-generator/views/fields/upload.php:12
+msgid "Select Media"
+msgstr ""
+
+#: ts-shortcode-generator/views/fields/upload.php:13
+msgid "Insert Media"
+msgstr ""
+
+#: ts-shortcode-generator/views/fields/upload.php:21
+msgid "Upload"
+msgstr ""
+
+#: ts-shortcode-generator/views/popup.php:97
+msgid "Please select a shortcode to continue."
+msgstr ""
+
+#: ts-shortcode-generator/views/popup.php:108
+msgid "Add Shortcode"
+msgstr ""
+
+#: ts-shortcode-generator/views/popup.php:109
+msgid "Cancel"
+msgstr ""
+
+#: twp-shortcodes.php:37
+msgid "Themes4WP shortcode generator"
+msgstr ""
+
+#: twp-shortcodes.php:84
+msgid ""
+"TWP shortcodes are enabled but not effective. It requires WooCommerce in "
+"order to work."
+msgstr ""

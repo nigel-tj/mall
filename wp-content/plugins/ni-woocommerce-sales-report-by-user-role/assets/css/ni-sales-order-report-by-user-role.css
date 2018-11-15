@@ -1,0 +1,72 @@
+/* CSS Document */
+.ni-container { width:99%;}
+.ni-content {width:100%; 
+	margin-top:10px; background-color:#FFFFFF; 
+	border:1px solid #880E4F; 
+	 }
+.ni-report-title {
+	height:30px; 
+	color:#880E4F;  
+	font-size:16px; 
+	text-transform:uppercase; 
+	text-align:center; 
+	font-weight:bold;
+	padding-top:5px; 
+	}
+.ni-sale-role-data-table {
+	width:100% ;  
+	border-collapse: collapse;
+	}
+
+.ni-content .ni-sale-role-data-table td {
+    border-top: 1.5px solid #880E4F;
+	color:#263238;
+}
+.ni-sale-role-data-table th {
+    height: 50px;
+	color:#880E4F;
+	 border-top: 1.5px solid #880E4F;
+	 text-transform:uppercase;
+	
+}
+
+.ni-sale-role-data-table td {  
+	height: 30px;
+    vertical-align: bottom;
+}
+.ni-sale-role-data-table th, td {
+    padding: 5px;
+    text-align: left;
+	
+}
+.ni-sale-role-data-table tr:nth-child(odd){ 
+	background: #FFFFFF;
+}
+.ni-sale-role-data-table tr:nth-child(even){
+	background: #FFFDE7;
+}
+.ni-sale-role-data-table tr:hover {
+    background-color: #FFF9C4;
+}
+.ni-form-table { padding-top:10px; padding-bottom:50px; color:#880E4F;}
+.table-search-form .ni-label { font-weight:bold;}
+.table-search-form .ni-value    {  }
+.ni-btn-search {  
+	background-color: #880E4F; /* Green */
+    border: none;
+	border-radius: 12px;
+    color: white;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; 
+	cursor: pointer; cursor: hand;
+
+	}
+.ni-no-record-found{
+	padding-left:10px; 
+	text-transform:uppercase; 
+	color:#880E4F; 
+	font-weight:bold
+}

@@ -1,0 +1,13 @@
+<wpml-config>
+	<admin-texts>
+		<key name="theme_mods_kakina-pro">
+      <key name="footer-credits" />
+      <key name="infobox-text-left" />
+      <key name="infobox-text-center" />
+      <key name="kakina_pro_shop_by_text" />
+      <key name="shop-by-cat-text" />
+      <key name="kakina_socials_text" />
+      <key name="repeater_slider" />
+    </key>
+	</admin-texts>
+</wpml-config>

@@ -1,0 +1,91 @@
+.migrate_users {
+    margin: 50px 30px;
+}
+
+.migrate_users ul.menu {
+    list-style: none;
+    border: 1px solid #ccc;
+    text-align: center;
+    background: #fff;
+    padding: 0;
+}
+
+.migrate_users ul.menu li {
+    display: inline-block;
+    width: 200px;
+    background: #fff;
+    margin: 0;
+    text-align: center;
+}
+
+.migrate_users ul.menu li a {
+    text-decoration: none;
+    font-size: 18px;
+    display: block;
+    padding: 10px 0;
+}
+
+.migrate_users ul.menu li a:active,
+.migrate_users ul.menu li a:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.migrate_users ul.menu li.active {
+    background: #f2f2f2;
+}
+
+.migrate_users table.options td.name {
+    font-weight: bold;
+    padding: 10px 0;
+    width: 20%;
+}
+
+.migrate_users table.options td.value {
+    text-align: center;
+    padding: 10px 0;
+    width: 50%;
+}
+
+.migrate_users table.options td.name input[type=text],
+.migrate_users table.options td.value input[type=text] {
+    min-width: 50%;
+    padding: 10px;
+}
+
+.migrate_users table.options td.name select,
+.migrate_users table.options td.value select {
+    min-width: 50%;
+    height: 40px;
+}
+
+.migrate_users table.options td.info {
+    color: #333;
+    padding: 10px 0;
+}
+
+.migrate_users .wp-list-table td.column-___actions {
+    text-align: left;
+    padding-left: 18px;
+}
+
+.migrate_users .wp-list-table .column-___status {
+    font-weight: bold;
+}
+
+.migrate_users .wp-list-table .log {
+    display: none;
+    position: absolute;
+    background: #fff;
+    border: 1px solid #333;
+    right: 50px;
+    padding: 20px;
+}
+
+.migrate_users .wp-list-table .status {
+    cursor: pointer;
+}
+
+.migrate_users .wp-list-table .status:hover .log {
+    display: block;
+}
